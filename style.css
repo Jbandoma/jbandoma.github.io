@@ -1,8 +1,23 @@
-#limited_edition
-  {img src="images/Newarrivals.png"
-        width="1000"
-        height="auto">
-          </img>}
 
+.product {
+  font-size: 12pt;
+  font-family: 'Radio Canada', sans-serif;
+  color: black;
+  text-align: center;
+}
 
-.body {font-family: 'Roboto', sans-serif;}
+.buttontext {
+  font-size: 12pt;
+  font-family: 'Radio Canada', sans-serif;
+  color: black;
+}
+
+.title {
+  font-size: 50pt;
+  font-family: 'Radio Canada', sans-serif;
+  color: white;
+}
+
+.beigecolor {
+  background-color: #FBF0D9
+}
